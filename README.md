@@ -1,1 +1,1 @@
-# scRNAseq-analysis-SARS-CoV-2
+# scRNAseq data analysis of SARS-CoV-2
