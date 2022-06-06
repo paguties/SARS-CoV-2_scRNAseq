@@ -3,12 +3,9 @@
 
 '''
    Written by Pablo Gutierrez
-   Grupo de Biotecnologia microbiana
-   Universidad Nacional de Colombia sede Medellin
    '''
 
 __author__ = "Pablo Gutierrez"
-__copyright__ = "Copyright 2020, Grupo de Biotecnologia Microbiana Unalmed"
 __credits__ = ["Pablo Gutierrez"]
 __license__ = "MIT"
 __version__ = "1.0.1"
